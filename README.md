@@ -14,3 +14,9 @@
 - [SkyWalking 的项目](https://github.com/apache/skywalking)
 ### Node.js
 - [适合初学者练手的vue小项目（附github源码）](https://cloud.tencent.com/developer/article/1388518)
+
+### 微信公众号+小程序
+- [《微信公众号+小程序快速开发》视频教程课件及代码](https://github.com/JeffreySu/WechatVideoCourse)
+
+### 办公室技能
+- [PowerPoint-Sample](https://github.com/Suparnapaul393/PowerPoint-Sample)
