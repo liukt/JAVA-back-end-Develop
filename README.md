@@ -7,6 +7,7 @@
 [黑马程序员 120天全栈区块链开发 开源教程](https://github.com/itheima1/BlockChain)
 ## 学习笔记
 - [Trending](https://github.com/trending)  See what the GitHub community is most excited about today.
+- [bilibili/kratos](https://github.com/bilibili/kratos) Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。
 
 ### 知识星球
 - [芋道源码&&架构] (http://svip.iocoder.cn/Learn/tutorials/) 
