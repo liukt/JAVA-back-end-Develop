@@ -6,7 +6,7 @@
 ## 学习视频教程
 [黑马程序员 120天全栈区块链开发 开源教程](https://github.com/itheima1/BlockChain)
 ## 学习笔记
-
+- [Trending](https://github.com/trending)  See what the GitHub community is most excited about today.
 
 ### 知识星球
 - [芋道源码&&架构] (http://svip.iocoder.cn/Learn/tutorials/) 
